@@ -153,7 +153,7 @@ const HandleDelete = (id)=>{
         <div className="row mt-3">
             <h3>Tasks</h3>
         
-                <div className="col-md-6">
+                <div >
                     <ul className="list-group">
                         {
                             todos.map((item)=>
